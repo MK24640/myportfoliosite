@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Quiz App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React"],
+    "demo": "https://myreactquizapp.netlify.app/",
+    "source": "https://github.com/MK24640/myreactquizapp"
+  }
+]
